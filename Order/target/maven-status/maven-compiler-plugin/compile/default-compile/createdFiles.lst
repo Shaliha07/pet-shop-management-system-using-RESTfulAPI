@@ -1,0 +1,8 @@
+com\order\OrderAPI\Config\WebClientConfig.class
+com\order\OrderAPI\OrderApiApplication.class
+com\order\OrderAPI\model\OrderItem.class
+com\order\OrderAPI\OrderApiApplication$AppConfig.class
+com\order\OrderAPI\service\OrderService.class
+com\order\OrderAPI\controller\OrderController.class
+com\order\OrderAPI\model\Order.class
+com\order\OrderAPI\repository\OrderRepository.class
